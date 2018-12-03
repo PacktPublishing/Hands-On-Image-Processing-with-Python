@@ -1,16 +1,21 @@
-# 
+# Hands-On Image Processing with Python
 
-<a href="https://www.packtpub.com/in/big-data-and-business-intelligence/hands-image-processing-python?utm_source=github&utm_medium=repository&utm_campaign="><img src="" alt="" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/big-data-and-business-intelligence/hands-image-processing-python?utm_source=github&utm_medium=repository&utm_campaign=9781789343731 "><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/cover_11017.png" alt="Hands-On Image Processing with Python" height="256px" align="right"></a>
 
-This is the code repository for [](https://www.packtpub.com/in/big-data-and-business-intelligence/hands-image-processing-python?utm_source=github&utm_medium=repository&utm_campaign=), published by Packt.
+This is the code repository for [Hands-On Image Processing with Python](https://www.packtpub.com/big-data-and-business-intelligence/hands-image-processing-python?utm_source=github&utm_medium=repository&utm_campaign=9781789343731), published by Packt.
 
 **Expert techniques for advanced image analysis and effective interpretation of image data**
 
 ## What is this book about?
-This book covers how to use the image processing libraries in Python. It will enable you to write code snippets to implement complex image processing algorithms such as image enhancement, filtering, segmentation, object detection, and more. You will also be able to use machine learning and deep learning models and learn to implement them with ease.
+Image processing plays an important role in our daily lives with various applications such as in social media (face detection), medical imaging (X-ray, CT-scan), security (fingerprint recognition) to robotics &amp; space. This book will touch the core of image processing, from concepts to code using Python.
 
 This book covers the following exciting features:
-
+* Perform basic data pre-processing tasks such as image denoising and spatial filtering in Python 
+* Implement Fast Fourier Transform (FFT) and Frequency domain filters (e.g., Weiner) in Python 
+* Do morphological image processing and segment images with different algorithms 
+* Learn techniques to extract features from images and match images 
+* Write Python code to implement supervised / unsupervised machine learning algorithms for image processing 
+Use deep learning models for image classification, segmentation, object detection and style transfer 
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789343739) today!
 
@@ -34,21 +39,25 @@ With the following software and hardware list you can run all code files present
 | Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
 | 1 | Samba 4.x Server Software | Windows |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]().
 
 ### Related products
-* Python Machine Learning - Second Edition  [[Packt]](https://india.packtpub.com/in/big-data-and-business-intelligence/python-machine-learning-second-edition?utm_source=github&utm_medium=repository&utm_campaign=) [[Amazon]](https://www.amazon.com/dp/1787125939)
-
-
 ## Get to Know the Author
 **Sandipan Dey**
- is a data scientist with a wide range of interests, covering topics such as machine learning, deep learning, image processing, and computer vision. He has worked in numerous data science fields, working with recommender systems, predictive models for the events industry, sensor localization models, sentiment analysis, and device prognostics. He earned his master's degree in computer science from the University of Maryland, Baltimore County, and has published in a few IEEE Data Mining conferences and journals. He has earned certifications from 100+ MOOCs on data science, machine learning, deep learning, image processing, and related courses/specializations. He is a regular blogger on his blog (sandipanweb) and is a machine learning education enthusiast.
+Dey is a data scientist with a wide range of interests, covering topics such as machine learning, deep learning, image processing, and computer vision. He has worked in numerous data science fields, working with recommender systems, predictive models for the events industry, sensor localization models, sentiment analysis, and device prognostics. He earned his master's degree in computer science from the University of Maryland, Baltimore County, and has published in a few IEEE Data Mining conferences and journals. He has earned certifications from 100+ MOOCs on data science, machine learning, deep learning, image processing, and related courses/specializations. He is a regular blogger on his blog (sandipanweb) and is a machine learning education enthusiast.
 
 ## Other books by the authors
 [](https://www.packtpub.com/big-data-and-business-intelligence/hands-image-processing-python?utm_source=github&utm_medium=repository&utm_campaign=)
-
-
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.

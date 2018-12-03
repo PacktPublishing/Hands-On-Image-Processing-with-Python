@@ -39,15 +39,6 @@ With the following software and hardware list you can run all code files present
 | Chapter | Software required | OS required |
 | -------- | ------------------------------------ | ----------------------------------- |
 | 1 | Samba 4.x Server Software | Windows |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
 
 We also provide a PDF file that has color images of the screenshots/diagrams used in this book. [Click here to download it]().
 

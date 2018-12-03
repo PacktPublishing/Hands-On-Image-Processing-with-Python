@@ -7,7 +7,7 @@ This is the code repository for [](https://www.packtpub.com/in/big-data-and-busi
 **Expert techniques for advanced image analysis and effective interpretation of image data**
 
 ## What is this book about?
-
+This book covers how to use the image processing libraries in Python. It will enable you to write code snippets to implement complex image processing algorithms such as image enhancement, filtering, segmentation, object detection, and more. You will also be able to use machine learning and deep learning models and learn to implement them with ease.
 
 This book covers the following exciting features:
 

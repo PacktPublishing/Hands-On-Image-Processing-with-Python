@@ -9,13 +9,13 @@ This is the code repository for [Hands-On Image Processing with Python](https://
 ## What is this book about?
 Image processing plays an important role in our daily lives with various applications such as in social media (face detection), medical imaging (X-ray, CT-scan), security (fingerprint recognition) to robotics &amp; space. This book will touch the core of image processing, from concepts to code using Python.
 
-* This book covers the following exciting features:
+This book covers the following exciting features:
 * Perform basic data pre-processing tasks such as image denoising and spatial filtering in Python 
 * Implement Fast Fourier Transform (FFT) and Frequency domain filters (e.g., Weiner) in Python 
 * Do morphological image processing and segment images with different algorithms 
 * Learn techniques to extract features from images and match images 
 * Write Python code to implement supervised / unsupervised machine learning algorithms for image processing 
-* Use deep learning models for image classification, segmentation, object detection and style transfer 
+* Use deep learning models for image classification, segmentation, object detection, transfer learning and neural style transfer 
 
 If you feel this book is for you, get your [copy](https://www.amazon.com/dp/1789343739) today!
 

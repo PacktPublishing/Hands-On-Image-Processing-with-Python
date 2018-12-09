@@ -1,0 +1,1 @@
+Download the pre-trained torch model here from https://github.com/DmitryUlyanov/online-neural-doodle/blob/master/pretrained/starry_night.t7

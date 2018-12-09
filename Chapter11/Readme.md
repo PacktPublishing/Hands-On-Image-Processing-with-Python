@@ -1,0 +1,3 @@
+1. download deeplab v3+ from https://github.com/bonlime/keras-deeplab-v3-plus
+2. download yad2k for yolo v2 from https://github.com/allanzelener/YAD2K, download weights and cfg from here https://pjreddie.com/darknet/yolo/ and create yolo.h5
+3. download torch pre-trained model for neural style transfer from here: https://github.com/DmitryUlyanov/online-neural-doodle/blob/master/pretrained/starry_night.t7

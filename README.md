@@ -1,6 +1,6 @@
 # Hands-On Image Processing with Python
 
-<a href="https://www.packtpub.com/big-data-and-business-intelligence/hands-image-processing-python?utm_source=github&utm_medium=repository&utm_campaign=9781789343731 "><img src="https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/cover_11017.png" alt="Hands-On Image Processing with Python" height="256px" align="right"></a>
+<a href="https://www.packtpub.com/big-data-and-business-intelligence/hands-image-processing-python?utm_source=github&utm_medium=repository&utm_campaign=9781789343731 "><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/c/o/cover_11017.png" alt="Hands-On Image Processing with Python" height="256px" align="right"></a>
 
 This is the code repository for [Hands-On Image Processing with Python](https://www.packtpub.com/big-data-and-business-intelligence/hands-image-processing-python?utm_source=github&utm_medium=repository&utm_campaign=9781789343731 ), published by Packt.
 
@@ -52,7 +52,6 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Get to Know the Author
 **Sandipan Dey**
 is a data scientist with a wide range of interests, covering topics such as machine learning, deep learning, image processing, and computer vision. He has worked in numerous data science fields, working with recommender systems, predictive models for the events industry, sensor localization models, sentiment analysis, and device prognostics. He earned his master's degree in computer science from the University of Maryland, Baltimore County, and has published in a few IEEE Data Mining conferences and journals. He has earned certifications from 100+ MOOCs on data science, machine learning, deep learning, image processing, and related courses/specializations. He is a regular blogger on his blog sites (https://sandipanweb.wordpress.com/, https://sandipandey.wixsite.com/simplydatascience, https://www.datasciencecentral.com/profile/SandipanDey and https://sandipanumbc.tumblr.com/) and is a machine learning education enthusiast.	
-
 
 
 ### Suggestions and Feedback

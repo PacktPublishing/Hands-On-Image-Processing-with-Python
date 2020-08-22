@@ -2,7 +2,7 @@
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/hands-image-processing-python?utm_source=github&utm_medium=repository&utm_campaign=9781789343731 "><img src="https://www.packtpub.com/media/catalog/product/cache/e4d64343b1bc593f1c5348fe05efa4a6/c/o/cover_11017.png" alt="Hands-On Image Processing with Python" height="256px" align="right"></a>
 
-This is the code repository for [Hands-On Image Processing with Python](https://www.packtpub.com/big-data-and-business-intelligence/hands-image-processing-python?utm_source=github&utm_medium=repository&utm_campaign=9781789343731 ), published by Packt.
+This is the code repository for [Hands-On Image Processing with Python](https://static.packt-cdn.com/products/9781789343731/cover/smaller), published by Packt.
 
 **Expert techniques for advanced image analysis and effective interpretation of image data**
 

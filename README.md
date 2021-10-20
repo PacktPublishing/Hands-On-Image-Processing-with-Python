@@ -53,6 +53,8 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 **Sandipan Dey**
 is a data scientist with a wide range of interests, covering topics such as machine learning, deep learning, image processing, and computer vision. He has worked in numerous data science fields, working with recommender systems, predictive models for the events industry, sensor localization models, sentiment analysis, and device prognostics. He earned his master's degree in computer science from the University of Maryland, Baltimore County, and has published in a few IEEE Data Mining conferences and journals. He has earned certifications from 100+ MOOCs on data science, machine learning, deep learning, image processing, and related courses/specializations. He is a regular blogger on his blog sites (https://sandipanweb.wordpress.com/, https://sandipandey.wixsite.com/simplydatascience, https://www.datasciencecentral.com/profile/SandipanDey and https://sandipanumbc.tumblr.com/) and is a machine learning education enthusiast.	
 
+More Image Processing Problems / Solutions can be found at https://github.com/sandipan/Solving-Image-Processing-Problems-with-Python-Part1
+
 
 ### Suggestions and Feedback
 [Click here](https://docs.google.com/forms/d/e/1FAIpQLSdy7dATC6QmEL81FIUuymZ0Wy9vH1jHkvpY57OiMeKGqib_Ow/viewform) if you have any feedback or suggestions.

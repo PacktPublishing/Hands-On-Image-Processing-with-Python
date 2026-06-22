@@ -1,7 +1,7 @@
 
 
 
-# Hands-On Image Processing with Python
+# Hands-On Image Processing and Computer Vision with Python
 
 <a href="https://www.packtpub.com/big-data-and-business-intelligence/hands-image-processing-python?utm_source=github&utm_medium=repository&utm_campaign=9781789343731 "><img src="https://static.packt-cdn.com/products/9781789343731/cover/smaller" alt="Hands-On Image Processing with Python" height="256px" align="right"></a>
 
